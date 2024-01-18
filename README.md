@@ -6,11 +6,16 @@ I'm Yuri Marchiori, a passionate newcomer to the fascinating world of programmin
 - 👩‍💻 Aspiring Programmer
 - 🌱 Currently learning:  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/> / <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> / <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/> / <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/> / <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/> / <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24"/>  
 - 💡 Exploring the endless possibilities of coding
-
+- Itil 4 Foundation Certified
+  
   <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donmarchiori&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+## Job title:
+ - Customer Service Manager
+
 
 ## My Goals
 - 🚀 Contribute to open-source projects
