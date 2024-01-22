@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello, World! 👋
+# Hello, World!! 👋
 
 I'm Yuri Marchiori, a passionate newcomer to the fascinating world of programming. 🚀 Currently navigating my way through lines of code and embracing the thrill of problem-solving, I'm on a journey to discover the magic behind software development.
 
