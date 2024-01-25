@@ -34,6 +34,8 @@ Feel free to connect with me as I embark on this exciting coding adventure! Let'
 <a href="https://www.linkedin.com/in/yurimarchiori" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+[![GitHub](https://img.shields.io/github/followers/donmarchiori?label=Follow&style=social)](https://github.com/donmarchiori)
+
 
 <!---
 donmarchiori/donmarchiori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
