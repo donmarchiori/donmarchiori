@@ -10,7 +10,8 @@ I'm Yuri Marchiori, a passionate newcomer to the fascinating world of programmin
 ## About Me
 
 🌎European Citizen Italian
-+ 11 years of seasoned expertise in Customer Relationship and Telecommunications.
+
++ +11 years of seasoned expertise in Customer Relationship and Telecommunications.
   
 - 👩‍💻 Aspiring Programmer
 - 🌱 Currently learning:  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24"/>  
