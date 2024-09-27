@@ -7,20 +7,20 @@ I'm Yuri Marchiori, a passionate newcomer to the fascinating world of programmin
 🌎European Citizen Italian
 
 +11 years of seasoned expertise in Customer Relationship and Telecommunications.
-> 👩‍💻 Aspiring Programmer
-> 🌱 Currently learning:  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/> 
-> 💡 Exploring the endless possibilities of coding
-> Bachelor of Laws
-> Degrees in Telecommunication Engineering 
-> Postgraduate Degree in Database
-> Postgraduate Degree in Data Science and Big Data
-> Postgraduate Degree in Software engineer
-> Certified ITIL 4®  Foundation
-> Certified ITIL 4® Specialist: Business Relationship Management
-> Scrum Fundamentals Certified 
-> Certified AWS Certified Cloud Practitioner 
-> B2B Technologies
-> B2 level in English & Spanish
+- 👩‍💻 Aspiring Programmer
+- 🌱 Currently learning:  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/> 
+- Exploring the endless possibilities of coding
+- Bachelor of Laws
+- Degrees in Telecommunication Engineering 
+- Postgraduate Degree in Database
+- Postgraduate Degree in Data Science and Big Data
+- Postgraduate Degree in Software engineer
+- Certified ITIL 4®  Foundation
+- Certified ITIL 4® Specialist: Business Relationship Management
+- Scrum Fundamentals Certified 
+- Certified AWS Certified Cloud Practitioner 
+- B2B Technologies
+- B2 level in English & Spanish
 
   
   <div>
@@ -33,9 +33,9 @@ I'm Yuri Marchiori, a passionate newcomer to the fascinating world of programmin
 
 
 ## My Goals
-> 🚀 Contribute to open-source projects
-> 📖 Build a solid foundation in [Programming Language/Framework]
-> 🌐 Explore different domains within the tech world
+- 🚀 Contribute to open-source projects
+- 📖 Build a solid foundation in [Programming Language/Framework]
+- 🌐 Explore different domains within the tech world
   
 ## Let's connect and explore new opportunities to collaborate and innovate together! 🌟
   <div>
